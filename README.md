@@ -132,5 +132,5 @@ berasal dari Vector Database.
 
 ## 5. Referensi 
 
-Linkedin Aricle [Linkedin](https://www.linkedin.com/pulse/from-vector-databases-hybrid-rag-enterprise-gen-ai-nitin-karandikar-odzjc/).
-Google Skill [Google](https://www.skills.google/paths/1282/course_templates/1097/documents/530393?locale=id).
+- Linkedin Aricle [Linkedin](https://www.linkedin.com/pulse/from-vector-databases-hybrid-rag-enterprise-gen-ai-nitin-karandikar-odzjc/).
+- Google Skill [Google](https://www.skills.google/paths/1282/course_templates/1097/documents/530393?locale=id).
